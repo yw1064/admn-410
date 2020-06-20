@@ -1,0 +1,72 @@
+﻿
+
+/*----------------------common-------------------------*/
+*{  margin:0; padding:0; font-family:Georgia, "Times New Roman", Times, serif;}
+.clear{ clear:both;}
+.center{ text-align:center;}
+.fl{ float:left;}
+.fr{ float:right;}
+img{ border:none;}
+a{ text-decoration:none;}
+a:hover{ text-decoration:underline;}
+li{ list-style-type:none;}
+body{ background:url(../images/bj.jpg) top center fixed no-repeat;}
+
+.con{ width:1000px; padding:10px; height:auto; margin:auto; background:#4682B4; background-color:rgba(255,255,255,0.9);}
+/*----------------head-----------------*/
+header{ width:1000px; height:auto; margin:auto;}
+
+.logo{ width:550px; height:80px;}
+.logo h1{ font-size:36px; line-height:80px; color:#4682B4; font-family:Arial, Helvetica, sans-serif;}
+
+nav{ width:1000px; height:40px; margin:5px auto;background-color:#87CEFA;}
+nav ul{ padding-left:10px;}
+nav li{ float:left; padding:5px 30px; }
+nav li a{ font-size:20px; line-height:30px; color:#4682B4;}
+nav li a:hover{ color:#4682B4; text-decoration:none;}
+
+
+
+.lunbo{ width:1000px; height:auto; margin:5px auto;}
+/*----------------main-----------------*/
+.main{ width:1000px; height:auto; margin:10px auto; font-size:14px; line-height:24px; color:#4682B4;}
+.main h2{font-size:22px; line-height:46px; color:#4682B4;}
+.main p{font-size:15px; line-height:28px; color:#778899;}
+
+.main_list{ width:1000px; height:auto; margin:10px auto; }
+.main_list li{ width:310px;height:auto; float:left; margin:5px; }
+.main_list li:hover{}
+.main_list li img{ width:310px;height:250px;}
+.main_list p{font-size:14px; line-height:25px; color:#4682B4; text-align:center;}
+.main_list h3{font-size:16px; line-height:36px; color:#4682B4; text-align:center;}
+
+.Products{width:1000px; height:auto; margin:5px auto;}
+.Productsdiv{width:480px; height:auto; float:left; margin:5px;}
+.Productsdiv p{font-size:16px; line-height:32px; color:#4682B4;}
+
+
+.Products_title{ width:480px;float:left; height:50px; margin:10px auto; background:#F60; font-size:24px; line-height:50px; color:#4682B4; text-align:center;}
+.Products_title h2{font-size:24px; line-height:50px; color:#4682B4;}
+
+
+
+
+/*----------------footer-----------------*/
+footer{ width:1000px; height:50px; margin:10px auto; padding-top:10px; border-top:2px  dotted #87CEFA; text-align:center; font-size:14px; line-height:24px; color:#666;}
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
